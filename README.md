@@ -5,7 +5,7 @@ A aplicação permite simular a finalização de uma compra digital com diferent
 
 > Este projeto foi desenvolvido como parte do processo seletivo da Cakto.
 
- - Vercel: https://teste-frontend-cakto-gabriel.vercel.app/
+Deploy: https://teste-frontend-cakto-gabriel.vercel.app/
 ---
 
 ## 🚀 Tecnologias utilizadas
