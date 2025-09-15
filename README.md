@@ -4,6 +4,8 @@ Este projeto é um checkout simplificado desenvolvido com Next.js e TailwindCSS,
 A aplicação permite simular a finalização de uma compra digital com diferentes métodos de pagamento, validação de CPF e email, e cálculo automático de parcelas.
 
 > Este projeto foi desenvolvido como parte do processo seletivo da Cakto.
+
+ - Vercel: https://teste-frontend-cakto-gabriel.vercel.app/
 ---
 
 ## 🚀 Tecnologias utilizadas
