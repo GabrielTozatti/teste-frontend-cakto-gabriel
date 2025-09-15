@@ -60,7 +60,7 @@ A aplicação permite simular a finalização de uma compra digital com diferent
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/GabrielTozatti/teste-frontend-cakto-gabriel.git
 cd seu-projeto
 ```
 
