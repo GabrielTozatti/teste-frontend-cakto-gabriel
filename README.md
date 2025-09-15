@@ -86,6 +86,17 @@ npm run build
 npm start
 ```
 
+---
+
+## 💡 Se tivesse mais tempo, eu adicionaria:
+- Validações em tempo real avançadas: email, CPF, cartão de crédito com máscara inteligente, validação de BIN e Luhn para cartão, evitando erros no envio.
+- Selos de segurança e HTTPS reforçado: exibição de certificados e validação de transações via API segura.
+- Auto-complete e prefill: integrar com dados salvos do usuário (browser ou backend) para acelerar o preenchimento do checkout.
+- Preparação para internacionalização: pronto para suportar diferentes moedas e formatos de CPF/identificação.
+- A/B Testing: testar layouts de botões, cores, textos e posicionamento de campos para encontrar a versão com maior conversão.
+- Monitoramento de métricas em tempo real: integração com Google Analytics / GA4 para capturar pontos de abandono, tempo médio de checkout e taxa de sucesso.
+- Indicadores de progresso: mostrar etapas do checkout (como em e-commerces grandes), melhorando percepção de velocidade e controle.
+
 ## 👨‍💻 Desenvolvedor
 Gabriel Tozatti
 [LinkedIn](https://www.linkedin.com/in/gabriel-tozatti/) • [GitHub](https://github.com/GabrielTozatti)
